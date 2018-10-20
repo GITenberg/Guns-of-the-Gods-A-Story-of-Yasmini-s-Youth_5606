@@ -1,5 +1,5 @@
 _repo: Guns-of-the-Gods-A-Story-of-Yasmini-s-Youth_5606
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'India -- Fiction'
 - !lcc 'PR'
+- GITenberg
 title: 'Guns of the Gods: A Story of Yasmini''s Youth'
 url: http://www.gutenberg.org/ebooks/5606
